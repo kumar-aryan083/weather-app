@@ -1,0 +1,2 @@
+10aacc1e1487c13fd5abc6b787d6ee98
+https://api.openweathermap.org/data/2.5/weather?q=bhopal&appid=10aacc1e1487c13fd5abc6b787d6ee98
